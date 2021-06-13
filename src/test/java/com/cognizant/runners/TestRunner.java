@@ -13,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 		dryRun=false,
 		//strict=false,
 		monochrome=true,
-		tags = {"@300"}
+		tags = {"@100"}
 		//name={"Login"}
 		)
 public class TestRunner {
